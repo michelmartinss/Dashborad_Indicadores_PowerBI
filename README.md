@@ -1,4 +1,4 @@
-# Dashborad_Indicadores_PowerBI
+# Dashboard de Indicadores em Power BI
 Dashboard básico, para permitir monitoramento e que a equipe de negócios, desenvolva Plano de Ação.    
 Conceito de Produto elaborado no Figma, abordando técnicas de Storytelling.
 
